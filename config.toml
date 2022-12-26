@@ -1,0 +1,12 @@
+baseURL = 'https://dascruz.me/'
+languageCode = 'en-us'
+title = 'dascruz blog'
+theme = "paper"
+[params]
+  color = 'linen'
+  twitter = 'dascruzz'
+  github = 'dascruz'
+  name = 'Daniel Sánchez'
+  bio = 'Solving problems through deep learning'
+  disableHLJS = true
+  monoDarkIcon = true
